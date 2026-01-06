@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DongleLibrary")(type "KiCad")(uri "${KIPRJMOD}/DongleLibrary.kicad_sym")(options "")(descr ""))
+)
