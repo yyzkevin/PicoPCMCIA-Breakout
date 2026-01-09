@@ -1,4 +1,4 @@
-25696880680214304
+25705720562926605
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -413,6 +413,20 @@ ST60X-18S30
 18
 18
 BreakoutLibrary
+JS202011SCQN
+JS202011SCQN
+Switch
+0
+6
+6
+BreakoutLibrary
+SJ-2523-SMT-TR
+SJ-2523-SMT-TR
+Connector
+0
+5
+5
+BreakoutLibrary
 SJ3523SMTTR
 SJ-3523-SMT-TR-1
 Connector
@@ -420,12 +434,33 @@ Connector
 3
 3
 BreakoutLibrary
+SM04B-SRSS-TB_LFSN_
+SM04B-SRSS-TB(LFSN)
+Connector
+0
+6
+6
+BreakoutLibrary
 SMT_4.2X3.2_
 SMT(4.2x3.2)
 Switch
 0
 4
 4
+BreakoutLibrary
+SOT-353_SC-70-5_SILKUPD
+SOT-353, SC-70-5
+SOT-353 SC-70-5
+0
+5
+5
+BreakoutLibrary
+SOT95P285X140-5N
+SOT25_2024-1
+Integrated Circuit
+0
+5
+5
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf

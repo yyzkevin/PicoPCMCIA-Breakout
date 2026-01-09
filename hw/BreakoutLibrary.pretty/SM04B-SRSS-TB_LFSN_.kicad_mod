@@ -1,0 +1,281 @@
+(footprint "SM04B-SRSS-TB_LFSN_"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SM04B-SRSS-TB(LFSN)")
+	(tags "Connector")
+	(property "Reference" "J6"
+		(at 2.822 -1.556 180)
+		(layer "F.SilkS")
+		(uuid "5d9ac6eb-754b-45b1-bf61-c2a88c0f6efb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "SM04B-SRSS-TB_LF__SN_"
+		(at 2.822 -1.556 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "02f6f156-90a3-4d23-80c3-5c6705403394")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "http://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0a76378e-a99b-4b73-9399-080880808994")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "JST (JAPAN SOLDERLESS TERMINALS) - SM04B-SRSS-TB(LF)(SN) - CONNECTOR, HEADER, SMT, R/A, 1MM, 4WAY"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "531b08ce-dcd2-454a-9c7d-0fa1be2525a2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cc042191-8ee9-47bb-893a-7725f06cece0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "306-SM04BSRSSTBLFSN"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e5a5dcba-da36-458c-b5b5-da29d991320e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/JST-Commercial/SM04B-SRSS-TBLFSN?qs=cdbOS8ANM9B3FdyA6cNU2A%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bc168a85-282a-41f6-8417-1ad500f13b76")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ebb9c127-0be4-491b-b357-20f9df5907f2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "SM04B-SRSS-TB(LF)(SN)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c4f62eed-988b-432e-958d-26e4a58caad5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 0 -4.85)
+		(end 0 -1.87)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6d30b1b6-ba55-4044-92cf-ab3705f7eca8")
+	)
+	(fp_line
+		(start 0 -4.85)
+		(end 1.029 -4.85)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fb0621e0-6d42-44b5-a3ce-9cd0cd54a1f2")
+	)
+	(fp_line
+		(start 1.094 0)
+		(end 4.903 0)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a02d90c3-e756-4f76-bff7-1fbb32ab4393")
+	)
+	(fp_line
+		(start 6 -4.85)
+		(end 4.937 -4.85)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d00891cb-1a9d-4d36-985c-5d562ce55e31")
+	)
+	(fp_line
+		(start 6 -4.85)
+		(end 6 -1.87)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e5e865f7-51fe-44d8-a2fb-2b97ab21613c")
+	)
+	(fp_circle
+		(center 0.702 -5.642)
+		(end 0.702 -5.58163)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "8a0aa888-e8aa-49b8-8ceb-54bee64c9b4a")
+	)
+	(fp_line
+		(start 0 -4.85)
+		(end 6 -4.85)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ad15c173-6e88-4708-b632-73d85571d834")
+	)
+	(fp_line
+		(start 0 0)
+		(end 0 -4.85)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "047dc6a6-37b2-4c47-b388-c6f0ab8ae5ae")
+	)
+	(fp_line
+		(start 6 -4.85)
+		(end 6 0)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "77d1e2d0-5647-4b23-90db-73a61ac77b64")
+	)
+	(fp_line
+		(start 6 0)
+		(end 0 0)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d662af24-51ef-4793-98ec-861c99cf2efd")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2.822 -1.556 180)
+		(layer "F.Fab")
+		(uuid "a53bfe7e-c79d-4020-9eea-c28c4d8b3423")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 1.5 -4.661)
+		(size 0.6 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "f37f7187-2b6f-476f-be2a-47e5574d782f")
+	)
+	(pad "2" smd rect
+		(at 2.5 -4.661)
+		(size 0.6 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "96815a36-68ed-4a04-a160-04c724ff6d00")
+	)
+	(pad "3" smd rect
+		(at 3.5 -4.661)
+		(size 0.6 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5d156a56-dab3-4aaf-8bfc-210cca1902e4")
+	)
+	(pad "4" smd rect
+		(at 4.5 -4.661)
+		(size 0.6 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "80c4ba93-ab1f-419e-9ce3-8b2abe54f36a")
+	)
+	(pad "5" smd rect
+		(at 0.2 -0.786)
+		(size 1.2 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "cee420d6-a0da-4971-8db4-1347cf66da4a")
+	)
+	(pad "6" smd rect
+		(at 5.8 -0.786)
+		(size 1.2 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "25b5bfe6-5070-4678-9440-227cdfae1f5e")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/SM04B-SRSS-TB.STEP"
+		(offset
+			(xyz 3 4 -0.249)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

@@ -1,0 +1,239 @@
+(footprint "SOT-353_SC-70-5_SILKUPD"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SOT-353, SC-70-5")
+	(tags "SOT-353 SC-70-5")
+	(property "Reference" "U2"
+		(at 0 -2.25 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "2eaa9c7e-fb4e-4074-985e-72194600c58d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "74LVC1G00"
+		(at 0 2 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "68d1b8cc-9011-4a2a-9b6e-f1b1cb2cc746")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74lvc1g00.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c76a924b-5698-42ae-b201-cb325ae5f80a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Single NAND Gate, Low-Voltage CMOS"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c0d6ec4d-b3c2-4116-b23e-b6c8d3bc4d66")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.71 -1.16)
+		(end 0.7 -1.16)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9e674e0f-b584-4e25-ad91-d7745d5adbb2")
+	)
+	(fp_line
+		(start -0.7 1.16)
+		(end 0.7 1.16)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ed741369-e09f-4d8a-8bc6-4a21d55c89df")
+	)
+	(fp_poly
+		(pts
+			(xy -1.533 -0.657) (xy -1.863 -0.417) (xy -1.863 -0.897) (xy -1.533 -0.657)
+		)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "0950589b-fffe-4096-b57a-805670abea25")
+	)
+	(fp_line
+		(start -1.6 -1.4)
+		(end -1.6 1.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "48e9fac5-42ac-40c8-aec3-efcfc7716424")
+	)
+	(fp_line
+		(start -1.6 -1.4)
+		(end 1.6 -1.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3c9de5a1-4ff8-4efe-b4ab-c79faa40aa08")
+	)
+	(fp_line
+		(start -1.6 1.4)
+		(end 1.6 1.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7a687ddc-599a-48a7-9e7f-9b967e8301c4")
+	)
+	(fp_line
+		(start 1.6 1.4)
+		(end 1.6 -1.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d5eb16a5-8505-49e8-a10c-a205f28af4d2")
+	)
+	(fp_line
+		(start -0.675 -0.6)
+		(end -0.675 1.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ad80ac6d-7649-402c-9417-a19d5c0c7bf9")
+	)
+	(fp_line
+		(start -0.175 -1.1)
+		(end -0.675 -0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9ab98ae7-12c5-4364-8f0c-b425fec21689")
+	)
+	(fp_line
+		(start 0.675 -1.1)
+		(end -0.175 -1.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cff97a6d-e32c-486b-8799-8369ae5bf4ba")
+	)
+	(fp_line
+		(start 0.675 -1.1)
+		(end 0.675 1.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "aa08bb22-0d7b-40fe-b11b-d33dd0a77595")
+	)
+	(fp_line
+		(start 0.675 1.1)
+		(end -0.675 1.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0b2a2fd5-4f89-4e69-b6b7-d12d602737fa")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(uuid "259fbd42-ee7e-421a-bb6a-566cbc73f0af")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -0.95 -0.65)
+		(size 0.65 0.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "5135726e-9570-4ada-8941-9c0dd93a3af7")
+	)
+	(pad "2" smd roundrect
+		(at -0.95 0)
+		(size 0.65 0.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "f31e136d-5824-4414-971f-e996473d1a2d")
+	)
+	(pad "3" smd roundrect
+		(at -0.95 0.65)
+		(size 0.65 0.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "5d1a7b57-ae97-49ec-b09a-64d5ec9ab214")
+	)
+	(pad "4" smd roundrect
+		(at 0.95 0.65)
+		(size 0.65 0.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "09a54811-5cec-4ac3-9b86-d75850b4bc0a")
+	)
+	(pad "5" smd roundrect
+		(at 0.95 -0.65)
+		(size 0.65 0.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "46c0c3e5-bc16-4faa-bced-e47b494b138d")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-353_SC-70-5.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

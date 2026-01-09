@@ -1,1 +1,6 @@
 /hw/Breakout-backups
+/hw/jlcpcb/gerber
+/hw/jlcpcb/production_files
+*.bak
+hw/\#auto_saved_files\#
+*.lck

@@ -1,0 +1,349 @@
+(footprint "SJ-2523-SMT-TR"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SJ-2523-SMT-TR")
+	(tags "Connector")
+	(property "Reference" "J4"
+		(at 6.491 -0.031 180)
+		(layer "F.SilkS")
+		(uuid "9787703f-1376-49db-b17f-3b2a0c354590")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "SJ-2523-SMT-TR"
+		(at 6.491 -0.031 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "4d2c95fb-2b3b-45cf-a575-990f7cba5bc3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.sameskydevices.com/product/resource/SJ-2523-SMT-TR.pdf"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "831db156-7f6d-4d97-95ef-26d145d44815")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "SJ-2523-SMT-TR - 2.5 mm, Stereo, Right Angle, Surface Mount (SMT), 3 Conductors, 0 Internal Switches, Audio Jack Connector"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6e785611-8d8c-4a14-a2f3-765c6ca9103c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "03bb3dba-43c8-441a-b6f3-ee85cc66dd38")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "490-SJ-2523-SMT-TR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f8df0e72-1cfa-43d1-8c08-6b5d40d6417c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Same-Sky/SJ-2523-SMT-TR?qs=WyjlAZoYn50TRxpi%2FhdHvw%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d4688123-ed3e-4c11-800b-87e703e49086")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Same Sky"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e8d52e32-a62e-45e1-8de7-239bc17834fd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "SJ-2523-SMT-TR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f1161598-8b3f-4470-b802-a5c8cb44f8b2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.5 -2)
+		(end 0 -2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "25c21730-53d6-43ce-9bde-f451cd5759fa")
+	)
+	(fp_line
+		(start -1.5 2)
+		(end -1.5 -2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "33a53243-d4b2-46f2-9879-c3750e08cc54")
+	)
+	(fp_line
+		(start 0 -2.5)
+		(end 2.864 -2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6524357c-8807-4eb8-8d7d-22155f68b01e")
+	)
+	(fp_line
+		(start 0 -2)
+		(end 0 -2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "36282e68-a38b-40fe-9a89-526597b8f334")
+	)
+	(fp_line
+		(start 0 2)
+		(end -1.5 2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "256350e6-a8cd-4c4b-bf69-900b1215a1e6")
+	)
+	(fp_line
+		(start 0 2.5)
+		(end 0 2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "17088844-afdc-422f-8a81-126e06aa733a")
+	)
+	(fp_line
+		(start 3.35 2.5)
+		(end 9.76 2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "36bd9bbb-f46b-4871-af4a-2b3324ce21ea")
+	)
+	(fp_line
+		(start 6 -2.5)
+		(end 9.8 -2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "061602c4-c180-4827-a02b-4c7e2f48b16d")
+	)
+	(fp_line
+		(start 12 -1.741)
+		(end 12 1.741)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "71d6c8ee-da70-4b64-ab50-ea3dea4b98b8")
+	)
+	(fp_circle
+		(center 1.724 5.576)
+		(end 1.724 5.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "fa239aaa-0864-43de-84fa-7f47bf0996b2")
+	)
+	(fp_line
+		(start -1.5 -2)
+		(end -1.5 2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d3e1ff53-d3d7-4023-b37e-9089d456ed7a")
+	)
+	(fp_line
+		(start -1.5 2)
+		(end 0 2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "73fed324-2d1d-42b6-a791-31662b531395")
+	)
+	(fp_line
+		(start 0 -2.5)
+		(end 12 -2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "713878ef-b8c0-4d05-ae54-dc8a90f83dc8")
+	)
+	(fp_line
+		(start 0 -2)
+		(end -1.5 -2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bc5d7549-3df0-4967-84d4-162dcbc6ba0d")
+	)
+	(fp_line
+		(start 0 2.5)
+		(end 0 -2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "32865fbc-f85f-4e93-a485-3232ba995fff")
+	)
+	(fp_line
+		(start 12 -2.5)
+		(end 12 2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c4f561a4-554f-42d3-a79d-4b69225770b5")
+	)
+	(fp_line
+		(start 12 2.5)
+		(end 0 2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4280bc19-ebba-49f9-abb4-d95d741b6c32")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 6.491 -0.031 180)
+		(layer "F.Fab")
+		(uuid "e17a21f6-bc4c-4e53-bf68-34d956deec7d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 1.7 3.275)
+		(size 2.4 2.95)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "f27b18c8-7a78-4a6a-9329-2788a3e6c0ed")
+	)
+	(pad "2" smd rect
+		(at 11.4 3.425)
+		(size 2.4 2.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7d105ce6-bf32-4fb1-84b9-f88016cf703c")
+	)
+	(pad "3" smd rect
+		(at 4.4 -3.275)
+		(size 2.4 2.95)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "46a69c43-ec1c-4435-a023-335248a1f14b")
+	)
+	(pad "5" thru_hole circle
+		(at 3 0)
+		(size 1.55 1.55)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f88d1658-35cf-4ad7-9231-f8e01f1d5cdf")
+	)
+	(pad "6" thru_hole circle
+		(at 9 0)
+		(size 1.55 1.55)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "20e25fa1-f7d6-4f0e-adbe-f389b6a04000")
+	)
+	(embedded_fonts no)
+	(model "SJ-2523-SMT-TR.stp"
+		(offset
+			(xyz 0 0 2.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 90)
+		)
+	)
+)
