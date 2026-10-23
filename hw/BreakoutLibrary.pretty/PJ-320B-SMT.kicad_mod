@@ -1,0 +1,340 @@
+(footprint "PJ-320B-SMT"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "XKB PJ-320B-SMT 3.5 mm stereo jack, right angle, SMT, no switch (LCSC C2884998). Land pattern per XKB drawing X-PJ-320B-SMT rev A1 / JLC EasyEDA footprint. Pads: 3 sleeve, 2 ring, 4 tip. Origin = midpoint of the locating pegs; plug enters from -X")
+	(tags "audio jack 3.5mm TRS PJ-320B")
+	(property "Reference" "J**"
+		(at 0 -6.6 0)
+		(layer "F.SilkS")
+		(uuid "5de76edf-17d7-4c45-b7bf-8ccb88e903fd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "PJ-320B-SMT"
+		(at 0 6.6 0)
+		(layer "F.Fab")
+		(uuid "231c0571-dea2-4568-a7ba-037400e44ad6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.lcsc.com/product-detail/C2884998.html"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "00930b96-83d9-4574-9e22-92dc8b86591c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "3.5 mm stereo jack, SMT, 3 conductors"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d9aa9685-3aa1-410f-8b4c-64dda5bb28e4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -5.1 -3)
+		(end 6.2 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "21006b8f-c63e-4d29-8a9b-2fd635e1e831")
+	)
+	(fp_line
+		(start 6.2 -3)
+		(end 6.2 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9446c96f-a2f2-4a40-a3d5-78d6112fe63b")
+	)
+	(fp_line
+		(start 6.2 3)
+		(end -5.1 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "04ad25b3-1b31-4356-8fbb-2f049e5f4c76")
+	)
+	(fp_line
+		(start -5.1 3)
+		(end -5.1 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0e6d9141-673e-4e9c-b065-c8ee72d8a8e2")
+	)
+	(fp_line
+		(start -7.8 -2.5)
+		(end -5.1 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7b2d14c5-65bb-4f93-a6bb-188681a51644")
+	)
+	(fp_line
+		(start -5.1 -2.5)
+		(end -5.1 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2a369b1e-3a79-4c53-b825-5bb4186d7069")
+	)
+	(fp_line
+		(start -5.1 2.5)
+		(end -7.8 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fe6468d2-9785-4d45-a632-dc774640257d")
+	)
+	(fp_line
+		(start -7.8 2.5)
+		(end -7.8 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6d5665f6-774a-4d6c-8272-083ad864e863")
+	)
+	(fp_line
+		(start -5.2 -3.1)
+		(end -1.95 -3.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "19b540b5-9f6e-43e6-82fa-d8f401dea4cb")
+	)
+	(fp_line
+		(start -0.05 -3.1)
+		(end 6.3 -3.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6a240466-96ae-47ae-b26f-bd3abaf30797")
+	)
+	(fp_line
+		(start -5.2 3.1)
+		(end -3.95 3.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "48e60ddc-27fb-4b6b-b9b0-90add746cd47")
+	)
+	(fp_line
+		(start -2.05 3.1)
+		(end 3.05 3.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8aa6bc86-69d5-4f74-b389-5426bf05040b")
+	)
+	(fp_line
+		(start 4.95 3.1)
+		(end 6.3 3.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f68998b6-d388-49b8-acbc-51e1abe153ac")
+	)
+	(fp_line
+		(start 6.3 -3.1)
+		(end 6.3 3.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7fc6e1eb-7278-4114-8509-ed15e21d2d46")
+	)
+	(fp_line
+		(start -5.2 -3.1)
+		(end -5.2 -2.6)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5f265bf8-117f-4d7d-b43b-9abb457c6731")
+	)
+	(fp_line
+		(start -5.2 2.6)
+		(end -5.2 3.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "55a7d975-09e0-4da7-977d-bcb75182c811")
+	)
+	(fp_line
+		(start -5.2 -2.6)
+		(end -7.9 -2.6)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fa212740-dcb3-471b-ac58-8274805feb47")
+	)
+	(fp_line
+		(start -7.9 -2.6)
+		(end -7.9 2.6)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "47e2ef40-babb-4959-a6f4-e3a26d257c73")
+	)
+	(fp_line
+		(start -7.9 2.6)
+		(end -5.2 2.6)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3354bd22-a07a-4bb3-93ea-1eaad0ea77d9")
+	)
+	(fp_line
+		(start -8.05 -5.75)
+		(end 6.45 -5.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9a37f284-5eb7-4af6-9944-23ac30c6eaed")
+	)
+	(fp_line
+		(start 6.45 -5.75)
+		(end 6.45 5.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fb127a05-049d-40b5-89fe-2965312a6bac")
+	)
+	(fp_line
+		(start 6.45 5.75)
+		(end -8.05 5.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5037b42c-aa16-4256-8844-4603a054d596")
+	)
+	(fp_line
+		(start -8.05 5.75)
+		(end -8.05 -5.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "08d5478e-d3f9-4296-b574-28981d02273e")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.5 0 0)
+		(layer "F.Fab")
+		(uuid "d76f0779-ddd4-44d5-a091-c02152a635f7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at -3 0)
+		(size 1.2 1.2)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(uuid "bc2c3e6a-1086-430a-becd-f61e9b7b2526")
+	)
+	(pad "" np_thru_hole circle
+		(at 3 0)
+		(size 1.2 1.2)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(uuid "bc19e503-f222-4e3a-a419-b2b5d642edcc")
+	)
+	(pad "3" smd rect
+		(at -3 4)
+		(size 1.5 3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "cace3846-59f3-4330-a20b-d588b9e4cf4c")
+	)
+	(pad "2" smd rect
+		(at -1 -4)
+		(size 1.5 3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5d236183-db2d-40c4-9312-cac78f68075c")
+	)
+	(pad "4" smd rect
+		(at 4 4)
+		(size 1.5 3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c7aff843-e0d5-407f-b0fb-50c883dbd211")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/BreakoutLibrary.3dshapes/PJ-320B-SMT.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

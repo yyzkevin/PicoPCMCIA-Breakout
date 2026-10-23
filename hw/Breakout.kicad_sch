@@ -3369,7 +3369,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "DongleLibrary:SJ-3523-SMT-TR"
+		(symbol "BreakoutLibrary:PJ-320B-SMT"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3382,7 +3382,7 @@
 					(justify left top)
 				)
 			)
-			(property "Value" "SJ-3523-SMT-TR"
+			(property "Value" "PJ-320B-SMT"
 				(at 26.67 5.08 0)
 				(effects
 					(font
@@ -3391,7 +3391,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "SJ3523SMTTR"
+			(property "Footprint" "BreakoutLibrary:PJ-320B-SMT"
 				(at 26.67 -94.92 0)
 				(effects
 					(font
@@ -3401,7 +3401,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.sameskydevices.com/product/resource/SJ-3523-SMT-TR.pdf"
+			(property "Datasheet" "https://www.lcsc.com/product-detail/C2884998.html"
 				(at 26.67 -194.92 0)
 				(effects
 					(font
@@ -3411,7 +3411,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "SJ-3523-SMT-TR - 3.5 mm, Stereo, Right Angle, Surface Mount (SMT), 3 Conductors, 0 Internal Switches, Audio Jack Connector"
+			(property "Description" "PJ-320B-SMT - 3.5 mm stereo jack, right angle, SMT, 3 conductors, no switch (XKB, LCSC C2884998). Pins: 3 sleeve, 2 ring, 4 tip"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3420,7 +3420,7 @@
 					(hide yes)
 				)
 			)
-			(property "Height" "5.2"
+			(property "Height" "5"
 				(at 26.67 -394.92 0)
 				(effects
 					(font
@@ -3430,27 +3430,7 @@
 					(hide yes)
 				)
 			)
-			(property "Mouser Part Number" "490-SJ-3523-SMT-TR"
-				(at 26.67 -494.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ-3523-SMT-TR?qs=WyjlAZoYn51zOHzJ3r4ZRA%3D%3D"
-				(at 26.67 -594.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "Same Sky"
+			(property "Manufacturer_Name" "XKB Connection"
 				(at 26.67 -694.92 0)
 				(effects
 					(font
@@ -3460,7 +3440,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer_Part_Number" "SJ-3523-SMT-TR"
+			(property "Manufacturer_Part_Number" "PJ-320B-SMT"
 				(at 26.67 -794.92 0)
 				(effects
 					(font
@@ -3470,7 +3450,17 @@
 					(hide yes)
 				)
 			)
-			(symbol "SJ-3523-SMT-TR_1_1"
+			(property "LCSC" "C2884998"
+				(at 26.67 -894.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "PJ-320B-SMT_1_1"
 				(rectangle
 					(start 5.08 2.54)
 					(end 25.4 -5.08)
@@ -3492,7 +3482,7 @@
 							)
 						)
 					)
-					(number "1"
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3510,7 +3500,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3528,7 +3518,7 @@
 							)
 						)
 					)
-					(number "3"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -9635,7 +9625,7 @@
 		)
 	)
 	(symbol
-		(lib_id "DongleLibrary:SJ-3523-SMT-TR")
+		(lib_id "BreakoutLibrary:PJ-320B-SMT")
 		(at 73.66 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9652,7 +9642,7 @@
 				)
 			)
 		)
-		(property "Value" "SJ-3524-SMT-TR"
+		(property "Value" "PJ-320B-SMT"
 			(at 88.9 63.5 0)
 			(effects
 				(font
@@ -9660,7 +9650,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BreakoutLibrary:SJ3524SMTTR"
+		(property "Footprint" "BreakoutLibrary:PJ-320B-SMT"
 			(at 100.33 163.5 0)
 			(effects
 				(font
@@ -9670,7 +9660,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.sameskydevices.com/product/resource/sj-352x-smt.pdf"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C2884998.html"
 			(at 100.33 263.5 0)
 			(effects
 				(font
@@ -9680,7 +9670,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "SJ-3524-SMT-TR - 3.5 mm, Stereo, Right Angle, Surface Mount (SMT), 3 Conductors, 1 Internal Switch (tip), Audio Jack Connector"
+		(property "Description" "PJ-320B-SMT - 3.5 mm stereo jack, right angle, SMT, 3 conductors, no switch (XKB, LCSC C2884998). Pins: 3 sleeve, 2 ring, 4 tip"
 			(at 73.66 68.58 0)
 			(effects
 				(font
@@ -9689,7 +9679,7 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "5.2"
+		(property "Height" "5"
 			(at 100.33 463.5 0)
 			(effects
 				(font
@@ -9699,27 +9689,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "490-SJ-3524-SMT-TR"
-			(at 100.33 563.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Same-Sky/SJ-3524-SMT-TR"
-			(at 100.33 663.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Same Sky"
+		(property "Manufacturer_Name" "XKB Connection"
 			(at 100.33 763.5 0)
 			(effects
 				(font
@@ -9729,7 +9699,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "SJ-3524-SMT-TR"
+		(property "Manufacturer_Part_Number" "PJ-320B-SMT"
 			(at 100.33 863.5 0)
 			(effects
 				(font
@@ -9739,7 +9709,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C20182907"
+		(property "LCSC" "C2884998"
 			(at 73.66 68.58 0)
 			(effects
 				(font
@@ -9748,13 +9718,13 @@
 				(hide yes)
 			)
 		)
-		(pin "1"
+		(pin "3"
 			(uuid "da7e8584-bc2e-4d21-8018-82cf70e3acff")
 		)
-		(pin "2"
+		(pin "4"
 			(uuid "7727f856-e2d3-4c36-9397-0e774337b96a")
 		)
-		(pin "3"
+		(pin "2"
 			(uuid "49dbc7ff-959d-403e-ad40-a4bc0c60a841")
 		)
 		(instances
@@ -9767,7 +9737,7 @@
 		)
 	)
 	(symbol
-		(lib_id "DongleLibrary:SJ-3523-SMT-TR")
+		(lib_id "BreakoutLibrary:PJ-320B-SMT")
 		(at 217.17 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9784,7 +9754,7 @@
 				)
 			)
 		)
-		(property "Value" "SJ-3524-SMT-TR"
+		(property "Value" "PJ-320B-SMT"
 			(at 232.41 149.86 0)
 			(effects
 				(font
@@ -9792,7 +9762,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BreakoutLibrary:SJ3524SMTTR"
+		(property "Footprint" "BreakoutLibrary:PJ-320B-SMT"
 			(at 243.84 249.86 0)
 			(effects
 				(font
@@ -9802,7 +9772,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.sameskydevices.com/product/resource/sj-352x-smt.pdf"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C2884998.html"
 			(at 243.84 349.86 0)
 			(effects
 				(font
@@ -9812,7 +9782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "SJ-3524-SMT-TR - 3.5 mm, Stereo, Right Angle, Surface Mount (SMT), 3 Conductors, 1 Internal Switch (tip), Audio Jack Connector"
+		(property "Description" "PJ-320B-SMT - 3.5 mm stereo jack, right angle, SMT, 3 conductors, no switch (XKB, LCSC C2884998). Pins: 3 sleeve, 2 ring, 4 tip"
 			(at 217.17 154.94 0)
 			(effects
 				(font
@@ -9821,7 +9791,7 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "5.2"
+		(property "Height" "5"
 			(at 243.84 549.86 0)
 			(effects
 				(font
@@ -9831,27 +9801,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "490-SJ-3524-SMT-TR"
-			(at 243.84 649.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Same-Sky/SJ-3524-SMT-TR"
-			(at 243.84 749.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Same Sky"
+		(property "Manufacturer_Name" "XKB Connection"
 			(at 243.84 849.86 0)
 			(effects
 				(font
@@ -9861,7 +9811,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "SJ-3524-SMT-TR"
+		(property "Manufacturer_Part_Number" "PJ-320B-SMT"
 			(at 243.84 949.86 0)
 			(effects
 				(font
@@ -9871,7 +9821,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C20182907"
+		(property "LCSC" "C2884998"
 			(at 217.17 154.94 0)
 			(effects
 				(font
@@ -9880,13 +9830,13 @@
 				(hide yes)
 			)
 		)
-		(pin "1"
+		(pin "3"
 			(uuid "eec8226d-9bf4-4bcb-adf3-04445f90dd69")
 		)
-		(pin "2"
+		(pin "4"
 			(uuid "e5750927-949f-4e6b-8454-d783a0b1623f")
 		)
-		(pin "3"
+		(pin "2"
 			(uuid "5e3b9ee1-a626-48e7-bb16-27b6638370ac")
 		)
 		(instances
