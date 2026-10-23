@@ -279,6 +279,18 @@
 		(path "/0f8150ff-71dc-47ce-be50-88527a584ea6")
 		(sheetname "/")
 		(sheetfile "Breakout.kicad_sch")
+		(property "LCSC" "C4991872"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5c669b84-4744-4a04-88ed-5e42d7a1f01b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(attr through_hole)
 		(fp_line
 			(start 2.1 5.8)
@@ -606,6 +618,18 @@
 		(path "/1b745d45-a1ed-421d-a84b-cbf41b37874a")
 		(sheetname "/")
 		(sheetfile "Breakout.kicad_sch")
+		(property "LCSC" "C21136285"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7a016bbf-d71f-49a0-9030-d3689360a1e5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(attr smd)
 		(fp_line
 			(start -12.876794 -2.726971)
@@ -1496,7 +1520,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C105872"
+		(property "LCSC" "C25905"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -1774,7 +1798,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C23380830"
+		(property "LCSC" "C51118"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -2053,7 +2077,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C114764"
+		(property "LCSC" "C25091"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -2266,7 +2290,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C16903"
+		(property "LCSC" "C85835"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -2479,7 +2503,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C14445"
+		(property "LCSC" "C52923"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -2692,7 +2716,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C159815"
+		(property "LCSC" "C1525"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -2905,7 +2929,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C16903"
+		(property "LCSC" "C85835"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -3494,7 +3518,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C105872"
+		(property "LCSC" "C25905"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -3709,7 +3733,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2878883"
+		(property "LCSC" "C8185"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -4040,6 +4064,18 @@
 		(path "/0f6cc610-4e39-46c1-9d9b-dec0090276dd")
 		(sheetname "/")
 		(sheetfile "Breakout.kicad_sch")
+		(property "LCSC" "C4991872"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b1bb8735-c96b-4703-9df7-451153e94544")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(attr through_hole)
 		(fp_line
 			(start 2.1 5.8)
@@ -5009,7 +5045,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C159815"
+		(property "LCSC" "C1525"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -5222,7 +5258,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C159815"
+		(property "LCSC" "C1525"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -5438,6 +5474,18 @@
 		(path "/585cb031-f828-46c8-a481-a60587d3e500")
 		(sheetname "/")
 		(sheetfile "Breakout.kicad_sch")
+		(property "LCSC" "C5119948"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c34338d5-3f98-4ae9-b0b8-e3e3ddf748d4")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(attr smd)
 		(fp_line
 			(start 4.727001 5.352)
@@ -6077,7 +6125,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C114764"
+		(property "LCSC" "C25091"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -6357,6 +6405,18 @@
 		(path "/d7659a09-4316-44a2-8397-5dd606706b19")
 		(sheetname "/")
 		(sheetfile "Breakout.kicad_sch")
+		(property "LCSC" "C221666"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1078e36a-0f16-41d2-9c5d-2c7fafb775ca")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(attr smd)
 		(fp_line
 			(start 4.5 1.5)
