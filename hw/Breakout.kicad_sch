@@ -6621,6 +6621,12 @@
 		(uuid "599e6f5a-ed80-414a-8c67-6ffc38073229")
 	)
 	(junction
+		(at 36.83 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "60b55ae6-e7aa-4981-9de9-1f279fca18b8")
+	)
+	(junction
 		(at 133.35 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6643,6 +6649,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6c418341-d96a-49d7-b56a-e7ed0da68b29")
+	)
+	(junction
+		(at 36.83 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "73fcd653-7e82-4de7-a4b7-9faa49b6d969")
 	)
 	(junction
 		(at 157.48 33.02)
@@ -6685,12 +6697,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8a74add8-c2bc-4b53-911b-fbde7c1e2398")
-	)
-	(junction
-		(at 36.83 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8aaa5b81-b1c2-46bb-bc5b-e1483271d9c1")
 	)
 	(junction
 		(at 198.12 60.96)
@@ -6906,6 +6912,16 @@
 	)
 	(wire
 		(pts
+			(xy 1.27 71.12) (xy 36.83 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "069fcb3b-0125-453c-a4d9-a13c67bad06a")
+	)
+	(wire
+		(pts
 			(xy 198.12 71.12) (xy 204.47 71.12)
 		)
 		(stroke
@@ -6986,6 +7002,16 @@
 	)
 	(wire
 		(pts
+			(xy 66.04 71.12) (xy 73.66 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12a52c56-2528-4820-a7c7-e008012b5e57")
+	)
+	(wire
+		(pts
 			(xy 111.76 172.72) (xy 114.3 172.72)
 		)
 		(stroke
@@ -7016,6 +7042,16 @@
 	)
 	(wire
 		(pts
+			(xy 60.96 71.12) (xy 60.96 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14fc240a-fbfa-4963-9acf-3f9624336230")
+	)
+	(wire
+		(pts
 			(xy 198.12 99.06) (xy 226.06 99.06)
 		)
 		(stroke
@@ -7036,13 +7072,23 @@
 	)
 	(wire
 		(pts
-			(xy 12.7 99.06) (xy 36.83 99.06)
+			(xy 1.27 99.06) (xy 36.83 99.06)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "187a953e-3ec5-467f-a580-71ebae671693")
+	)
+	(wire
+		(pts
+			(xy 66.04 68.58) (xy 66.04 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1966494d-5fce-40c0-8666-93315cb4714b")
 	)
 	(wire
 		(pts
@@ -7086,6 +7132,16 @@
 	)
 	(wire
 		(pts
+			(xy 36.83 71.12) (xy 60.96 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21941fcb-add2-4c94-976a-18391d68ba08")
+	)
+	(wire
+		(pts
 			(xy 132.08 26.67) (xy 132.08 33.02)
 		)
 		(stroke
@@ -7103,16 +7159,6 @@
 			(type default)
 		)
 		(uuid "22a7031c-765f-4ef9-9c7b-869659447703")
-	)
-	(wire
-		(pts
-			(xy 12.7 71.12) (xy 36.83 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "22be1712-ef3a-4c12-aceb-1729f08f080e")
 	)
 	(wire
 		(pts
@@ -7226,7 +7272,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 68.58) (xy 55.88 68.58)
+			(xy 36.83 68.58) (xy 66.04 68.58)
 		)
 		(stroke
 			(width 0)
@@ -7246,7 +7292,7 @@
 	)
 	(wire
 		(pts
-			(xy 12.7 86.36) (xy 36.83 86.36)
+			(xy 1.27 86.36) (xy 36.83 86.36)
 		)
 		(stroke
 			(width 0)
@@ -7276,7 +7322,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 68.58) (xy 62.23 73.66)
+			(xy 72.39 68.58) (xy 72.39 73.66)
 		)
 		(stroke
 			(width 0)
@@ -7396,6 +7442,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 63.5) (xy 106.68 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51567734-ea70-4a3e-8248-e4fbc2486ec1")
+	)
+	(wire
+		(pts
 			(xy 198.12 91.44) (xy 198.12 93.98)
 		)
 		(stroke
@@ -7426,7 +7482,7 @@
 	)
 	(wire
 		(pts
-			(xy 12.7 104.14) (xy 36.83 104.14)
+			(xy 1.27 104.14) (xy 36.83 104.14)
 		)
 		(stroke
 			(width 0)
@@ -7596,17 +7652,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 68.58) (xy 93.98 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "72b2b6ee-b259-4c71-84a8-224a071c4970")
-	)
-	(wire
-		(pts
-			(xy 12.7 88.9) (xy 36.83 88.9)
+			(xy 1.27 88.9) (xy 36.83 88.9)
 		)
 		(stroke
 			(width 0)
@@ -7736,23 +7782,13 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 68.58) (xy 62.23 68.58)
+			(xy 73.66 68.58) (xy 72.39 68.58)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "8531b2d2-802c-4a1f-ba07-df9d0e81b494")
-	)
-	(wire
-		(pts
-			(xy 36.83 71.12) (xy 63.5 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "85391cee-2442-4b24-b748-18ee62425143")
 	)
 	(wire
 		(pts
@@ -7773,6 +7809,16 @@
 			(type default)
 		)
 		(uuid "8a7fbc5a-3a6a-4b7c-8def-f41007b0df8b")
+	)
+	(wire
+		(pts
+			(xy 1.27 78.74) (xy 36.83 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b2dd502-6e0b-40f2-ab74-819fcbdb7bc3")
 	)
 	(wire
 		(pts
@@ -7816,7 +7862,17 @@
 	)
 	(wire
 		(pts
-			(xy 12.7 73.66) (xy 36.83 73.66)
+			(xy 60.96 63.5) (xy 106.68 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "928088f7-7da5-449f-b722-d27a1b76c708")
+	)
+	(wire
+		(pts
+			(xy 1.27 73.66) (xy 36.83 73.66)
 		)
 		(stroke
 			(width 0)
@@ -7846,7 +7902,7 @@
 	)
 	(wire
 		(pts
-			(xy 12.7 96.52) (xy 36.83 96.52)
+			(xy 1.27 96.52) (xy 36.83 96.52)
 		)
 		(stroke
 			(width 0)
@@ -7866,7 +7922,7 @@
 	)
 	(wire
 		(pts
-			(xy 12.7 81.28) (xy 36.83 81.28)
+			(xy 1.27 81.28) (xy 36.83 81.28)
 		)
 		(stroke
 			(width 0)
@@ -7916,7 +7972,7 @@
 	)
 	(wire
 		(pts
-			(xy 12.7 93.98) (xy 36.83 93.98)
+			(xy 1.27 93.98) (xy 36.83 93.98)
 		)
 		(stroke
 			(width 0)
@@ -7926,7 +7982,7 @@
 	)
 	(wire
 		(pts
-			(xy 12.7 76.2) (xy 36.83 76.2)
+			(xy 1.27 76.2) (xy 36.83 76.2)
 		)
 		(stroke
 			(width 0)
@@ -7996,17 +8052,7 @@
 	)
 	(wire
 		(pts
-			(xy 12.7 78.74) (xy 36.83 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b26540d5-4794-4ba2-85ea-73091c0f172b")
-	)
-	(wire
-		(pts
-			(xy 12.7 68.58) (xy 36.83 68.58)
+			(xy 1.27 68.58) (xy 36.83 68.58)
 		)
 		(stroke
 			(width 0)
@@ -8023,16 +8069,6 @@
 			(type default)
 		)
 		(uuid "b36f16f5-9b34-4bc9-b3eb-a8c7aabf049d")
-	)
-	(wire
-		(pts
-			(xy 93.98 59.69) (xy 55.88 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b388633a-7d21-4dc1-8930-1c60c8eb9935")
 	)
 	(wire
 		(pts
@@ -8056,7 +8092,7 @@
 	)
 	(wire
 		(pts
-			(xy 12.7 91.44) (xy 36.83 91.44)
+			(xy 1.27 91.44) (xy 36.83 91.44)
 		)
 		(stroke
 			(width 0)
@@ -8106,6 +8142,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 68.58) (xy 104.14 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfcef749-4c1c-40c5-b2a4-e04f44eea91c")
+	)
+	(wire
+		(pts
 			(xy 198.12 93.98) (xy 226.06 93.98)
 		)
 		(stroke
@@ -8136,7 +8182,7 @@
 	)
 	(wire
 		(pts
-			(xy 12.7 101.6) (xy 36.83 101.6)
+			(xy 1.27 101.6) (xy 36.83 101.6)
 		)
 		(stroke
 			(width 0)
@@ -8216,7 +8262,7 @@
 	)
 	(wire
 		(pts
-			(xy 12.7 106.68) (xy 36.83 106.68)
+			(xy 1.27 106.68) (xy 36.83 106.68)
 		)
 		(stroke
 			(width 0)
@@ -8266,7 +8312,7 @@
 	)
 	(wire
 		(pts
-			(xy 12.7 109.22) (xy 36.83 109.22)
+			(xy 1.27 109.22) (xy 36.83 109.22)
 		)
 		(stroke
 			(width 0)
@@ -8296,6 +8342,16 @@
 	)
 	(wire
 		(pts
+			(xy 1.27 66.04) (xy 36.83 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e37dedfd-1f91-4a1b-9fca-3cb5012e0abf")
+	)
+	(wire
+		(pts
 			(xy 128.27 119.38) (xy 128.27 124.46)
 		)
 		(stroke
@@ -8306,7 +8362,7 @@
 	)
 	(wire
 		(pts
-			(xy 12.7 83.82) (xy 36.83 83.82)
+			(xy 1.27 83.82) (xy 36.83 83.82)
 		)
 		(stroke
 			(width 0)
@@ -8413,16 +8469,6 @@
 			(type default)
 		)
 		(uuid "f0816bb6-40ff-4a5b-9c0a-f61be6234615")
-	)
-	(wire
-		(pts
-			(xy 55.88 59.69) (xy 55.88 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f084627b-54f0-49a6-a3e6-6e97cf6aeaf5")
 	)
 	(wire
 		(pts
@@ -8666,7 +8712,7 @@
 			)
 		)
 	)
-	(global_label "I2C0_SDL"
+	(global_label "I2C0_SCL"
 		(shape input)
 		(at 48.26 83.82 0)
 		(fields_autoplaced yes)
@@ -8996,7 +9042,7 @@
 			)
 		)
 	)
-	(global_label "I2C0_SDL"
+	(global_label "I2C0_SCL"
 		(shape input)
 		(at 162.56 78.74 0)
 		(fields_autoplaced yes)
@@ -9581,7 +9627,7 @@
 	)
 	(symbol
 		(lib_id "DongleLibrary:SJ-3523-SMT-TR")
-		(at 63.5 68.58 0)
+		(at 73.66 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9590,7 +9636,7 @@
 		(fields_autoplaced yes)
 		(uuid "0f6cc610-4e39-46c1-9d9b-dec0090276dd")
 		(property "Reference" "J2"
-			(at 78.74 60.96 0)
+			(at 88.9 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9598,7 +9644,7 @@
 			)
 		)
 		(property "Value" "SJ-3523-SMT-TR"
-			(at 78.74 63.5 0)
+			(at 88.9 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9606,7 +9652,7 @@
 			)
 		)
 		(property "Footprint" "BreakoutLibrary:SJ3523SMTTR"
-			(at 90.17 163.5 0)
+			(at 100.33 163.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9616,7 +9662,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.sameskydevices.com/product/resource/SJ-3523-SMT-TR.pdf"
-			(at 90.17 263.5 0)
+			(at 100.33 263.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9626,7 +9672,7 @@
 			)
 		)
 		(property "Description" "SJ-3523-SMT-TR - 3.5 mm, Stereo, Right Angle, Surface Mount (SMT), 3 Conductors, 0 Internal Switches, Audio Jack Connector"
-			(at 63.5 68.58 0)
+			(at 73.66 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9635,7 +9681,7 @@
 			)
 		)
 		(property "Height" "5.2"
-			(at 90.17 463.5 0)
+			(at 100.33 463.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9645,7 +9691,7 @@
 			)
 		)
 		(property "Mouser Part Number" "490-SJ-3523-SMT-TR"
-			(at 90.17 563.5 0)
+			(at 100.33 563.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9655,7 +9701,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ-3523-SMT-TR?qs=WyjlAZoYn51zOHzJ3r4ZRA%3D%3D"
-			(at 90.17 663.5 0)
+			(at 100.33 663.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9665,7 +9711,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Same Sky"
-			(at 90.17 763.5 0)
+			(at 100.33 763.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9675,7 +9721,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SJ-3523-SMT-TR"
-			(at 90.17 863.5 0)
+			(at 100.33 863.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11625,7 +11671,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 62.23 73.66 0)
+		(at 72.39 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11634,7 +11680,7 @@
 		(fields_autoplaced yes)
 		(uuid "aef86a9d-fe0d-4bb6-a2a7-e202353611e1")
 		(property "Reference" "#PWR04"
-			(at 62.23 80.01 0)
+			(at 72.39 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11643,7 +11689,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 62.23 78.74 0)
+			(at 72.39 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11651,7 +11697,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 62.23 73.66 0)
+			(at 72.39 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11660,7 +11706,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 62.23 73.66 0)
+			(at 72.39 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11669,7 +11715,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 62.23 73.66 0)
+			(at 72.39 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)

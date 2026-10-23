@@ -5,10 +5,10 @@
 	(layer "F.Cu")
 	(descr "BM03B-SRSS-TBT(LF)(SN)-4")
 	(tags "Connector")
-	(property "Reference" "J**"
-		(at 0 -0.287 0)
+	(property "Reference" "J4"
+		(at 0.12 0.52 180)
 		(layer "F.SilkS")
-		(uuid "6da3a730-0426-4f3f-a26d-398ed0525436")
+		(uuid "107849d0-daa7-4e4a-b5a1-72c0145ca604")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16,11 +16,11 @@
 			)
 		)
 	)
-	(property "Value" "BM03BSRSSTBTLFSN"
-		(at 0 -0.287 0)
+	(property "Value" "BM03B-SRSS-TBT_LF__SN_"
+		(at 0 -0.287 180)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "94aa255e-52a8-4843-a5ea-5829d9e3bc4d")
+		(uuid "ddbd978a-4c52-4ca9-ae91-158a43d53c29")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28,11 +28,11 @@
 			)
 		)
 	)
-	(property "Datasheet" ""
-		(at 0 0 0)
+	(property "Datasheet" "BM03B-SRSS-TBT(LF)(SN)Datasheet(PDF)"
+		(at 0 0 180)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "8ef8ab4a-ffb6-4214-9209-298625ae7ffd")
+		(uuid "86c0c6b6-05b2-43cb-943a-64ea0a9a1ec5")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -40,11 +40,88 @@
 			)
 		)
 	)
-	(property "Description" ""
-		(at 0 0 0)
+	(property "Description" "Connector Header Surface Mount 3 position 0.039\" (1.00mm) 50V, 1A, -25C ~ 85C"
+		(at 0 0 180)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "765a2f14-fd03-4417-947f-0a091d86f5c9")
+		(uuid "c5dff9c2-7e12-4c5a-a182-dafe9995f791")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "66689f51-5cc2-4524-a1df-3486c4a5eeaf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "N/A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "25c8e15d-6bb0-4d0f-b7f3-7d510bcccdc0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/JST/BM03B-SRSS-TBTLFSN?qs=cdbOS8ANM9DdRpBGFprCSQ%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a554cd55-3d54-4216-b992-3ab26b7ccf26")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "94c56a2f-0a8b-46a7-acc3-f6707ecf8f3d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "BM03B-SRSS-TBT(LF)(SN)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7ec9cedd-fb6a-40c2-a7fc-6d644c37039c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C495538"
+		(at 0 0 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "a7c57b0f-555e-4f95-b0fc-8292ee2a70a4")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -61,7 +138,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "b7e48f36-f8b9-431c-bdfb-11697c37d802")
+		(uuid "b6889a71-ff54-49f0-85ae-cfffec71bb27")
 	)
 	(fp_line
 		(start -1.6 -1.287)
@@ -71,7 +148,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "4c19ceb4-d438-4bbe-a5e0-c9c45321e41d")
+		(uuid "a7c66165-650a-4bca-856f-a1641caa7270")
 	)
 	(fp_line
 		(start -1.4 1.613)
@@ -81,7 +158,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "8fff6141-c173-4197-ac02-666d977db0ec")
+		(uuid "8f24ae97-6d88-49bb-ac50-c49fb7c0bbb2")
 	)
 	(fp_line
 		(start 1 -2.9)
@@ -91,7 +168,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "dfd2ef16-9802-4d90-9ac1-17f5684d630e")
+		(uuid "3fec6820-f388-44b4-b569-722c5220ed46")
 	)
 	(fp_line
 		(start 1 -2.8)
@@ -101,7 +178,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "c17a883b-1f61-4448-b069-410abc0a20cc")
+		(uuid "12d2957d-a203-4e03-a13a-2533d0070c56")
 	)
 	(fp_line
 		(start 1.6 -1.287)
@@ -111,7 +188,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "c4de7be5-d2fd-429f-8cfb-0bcde0e88528")
+		(uuid "d6f55222-aa6f-41d7-8402-d5327470716e")
 	)
 	(fp_line
 		(start 2.5 -1.287)
@@ -121,7 +198,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "b80fdbd8-d621-447d-999e-cb89e0f56f87")
+		(uuid "42f309f6-1399-42b7-af53-4f3a5d9f2ff2")
 	)
 	(fp_arc
 		(start 1 -2.9)
@@ -132,7 +209,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "b4b84135-f1e4-4af4-b256-4751fe79bc8b")
+		(uuid "909e1344-f389-4ff9-845a-8ad347619379")
 	)
 	(fp_arc
 		(start 1 -2.8)
@@ -143,7 +220,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "90c99bc7-7e37-473f-a69c-5b4e63a32f78")
+		(uuid "4e5dcd3f-0845-422b-ad4b-8e22a355dd5c")
 	)
 	(fp_line
 		(start -3.9 -3.388)
@@ -153,7 +230,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "323827d4-8481-49c5-af83-4beec861a9ab")
+		(uuid "3ef18bc7-f65a-40b8-a4d6-677df248dfcf")
 	)
 	(fp_line
 		(start -3.9 2.813)
@@ -163,7 +240,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "002ef0b9-38c7-4260-83d7-45f772679c17")
+		(uuid "9887c258-0b14-4a1b-a045-c650f2923518")
 	)
 	(fp_line
 		(start 3.9 -3.388)
@@ -173,7 +250,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "28dd3262-81d7-48a4-bbe6-6451b1f81604")
+		(uuid "640aef90-161b-43af-adad-7b27b55b5214")
 	)
 	(fp_line
 		(start 3.9 2.813)
@@ -183,7 +260,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "a36649f5-17db-40c9-9fca-0043c09479fd")
+		(uuid "6ab5d0b7-033d-445c-a32b-33dc38719935")
 	)
 	(fp_line
 		(start -2.5 -1.287)
@@ -193,7 +270,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "4d0a418f-89c9-4943-8a25-75d81ede837f")
+		(uuid "325b4163-5534-4e6e-92af-b46dce935db4")
 	)
 	(fp_line
 		(start -2.5 1.613)
@@ -203,7 +280,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "3ccdb250-76bb-462d-be5b-a99568c2faad")
+		(uuid "939cd0aa-0ea8-4430-a967-1e2c01e01cac")
 	)
 	(fp_line
 		(start 2.5 -1.287)
@@ -213,7 +290,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "c924a477-0e18-44a0-a0b8-3f588d66985a")
+		(uuid "285ace25-7619-4f11-8da1-4ecc81d6edbc")
 	)
 	(fp_line
 		(start 2.5 1.613)
@@ -223,12 +300,12 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "816b7e57-e85b-4e03-8826-f148304e01e9")
+		(uuid "a250a8b0-9e31-49df-8bec-56b76494e3e3")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 -0.287 0)
+		(at 0 -0.287 180)
 		(layer "F.Fab")
-		(uuid "1ecdc8f0-5193-457f-a972-f69d25bfe3ba")
+		(uuid "d77f3df7-e71b-4085-af19-5d45ba074db6")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -240,31 +317,42 @@
 		(at 1 -1.612)
 		(size 0.6 1.55)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "6cd96049-f08b-4f21-8bf5-958f0f408eb8")
+		(uuid "3edeebfd-c5d9-4826-8d52-81900b813167")
 	)
 	(pad "2" smd rect
 		(at 0 -1.612)
 		(size 0.6 1.55)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "7a9c79f4-bd89-4f42-ac45-e9df6eb81d17")
+		(uuid "e2764340-14e2-4c62-af12-fee0633ce216")
 	)
 	(pad "3" smd rect
 		(at -1 -1.612)
 		(size 0.6 1.55)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "75d53196-7f79-4f1e-b304-ba207ffe3cb0")
+		(uuid "92ec8084-b6ce-4030-9c4b-6268223844de")
 	)
 	(pad "4" smd rect
 		(at -2.3 0.913)
 		(size 1.2 1.8)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "14d765f1-dcff-40bc-9878-86615241af17")
+		(uuid "f2c9bdac-93d8-44eb-999a-72dd21e5c766")
 	)
 	(pad "5" smd rect
 		(at 2.3 0.913)
 		(size 1.2 1.8)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "a4f681e0-1c53-40e3-996b-434d7efb11f0")
+		(uuid "6b4d30ec-4acb-4b9e-812c-5c33f57c1a2c")
 	)
 	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/BM03B-SRSS-TB.STEP"
+		(offset
+			(xyz 0 -1 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -180)
+		)
+	)
 )
