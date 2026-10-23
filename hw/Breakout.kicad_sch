@@ -9652,7 +9652,7 @@
 				)
 			)
 		)
-		(property "Value" "SJ-3523-SMT-TR"
+		(property "Value" "SJ-3524-SMT-TR"
 			(at 88.9 63.5 0)
 			(effects
 				(font
@@ -9660,7 +9660,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BreakoutLibrary:SJ3523SMTTR"
+		(property "Footprint" "BreakoutLibrary:SJ3524SMTTR"
 			(at 100.33 163.5 0)
 			(effects
 				(font
@@ -9670,7 +9670,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.sameskydevices.com/product/resource/SJ-3523-SMT-TR.pdf"
+		(property "Datasheet" "https://www.sameskydevices.com/product/resource/sj-352x-smt.pdf"
 			(at 100.33 263.5 0)
 			(effects
 				(font
@@ -9680,7 +9680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "SJ-3523-SMT-TR - 3.5 mm, Stereo, Right Angle, Surface Mount (SMT), 3 Conductors, 0 Internal Switches, Audio Jack Connector"
+		(property "Description" "SJ-3524-SMT-TR - 3.5 mm, Stereo, Right Angle, Surface Mount (SMT), 3 Conductors, 1 Internal Switch (tip), Audio Jack Connector"
 			(at 73.66 68.58 0)
 			(effects
 				(font
@@ -9699,7 +9699,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "490-SJ-3523-SMT-TR"
+		(property "Mouser Part Number" "490-SJ-3524-SMT-TR"
 			(at 100.33 563.5 0)
 			(effects
 				(font
@@ -9709,7 +9709,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ-3523-SMT-TR?qs=WyjlAZoYn51zOHzJ3r4ZRA%3D%3D"
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Same-Sky/SJ-3524-SMT-TR"
 			(at 100.33 663.5 0)
 			(effects
 				(font
@@ -9729,7 +9729,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "SJ-3523-SMT-TR"
+		(property "Manufacturer_Part_Number" "SJ-3524-SMT-TR"
 			(at 100.33 863.5 0)
 			(effects
 				(font
@@ -9739,7 +9739,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C4991872"
+		(property "LCSC" "C20182907"
 			(at 73.66 68.58 0)
 			(effects
 				(font
@@ -9784,7 +9784,7 @@
 				)
 			)
 		)
-		(property "Value" "SJ-3523-SMT-TR"
+		(property "Value" "SJ-3524-SMT-TR"
 			(at 232.41 149.86 0)
 			(effects
 				(font
@@ -9792,7 +9792,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BreakoutLibrary:SJ3523SMTTR"
+		(property "Footprint" "BreakoutLibrary:SJ3524SMTTR"
 			(at 243.84 249.86 0)
 			(effects
 				(font
@@ -9802,7 +9802,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.sameskydevices.com/product/resource/SJ-3523-SMT-TR.pdf"
+		(property "Datasheet" "https://www.sameskydevices.com/product/resource/sj-352x-smt.pdf"
 			(at 243.84 349.86 0)
 			(effects
 				(font
@@ -9812,7 +9812,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "SJ-3523-SMT-TR - 3.5 mm, Stereo, Right Angle, Surface Mount (SMT), 3 Conductors, 0 Internal Switches, Audio Jack Connector"
+		(property "Description" "SJ-3524-SMT-TR - 3.5 mm, Stereo, Right Angle, Surface Mount (SMT), 3 Conductors, 1 Internal Switch (tip), Audio Jack Connector"
 			(at 217.17 154.94 0)
 			(effects
 				(font
@@ -9831,7 +9831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "490-SJ-3523-SMT-TR"
+		(property "Mouser Part Number" "490-SJ-3524-SMT-TR"
 			(at 243.84 649.86 0)
 			(effects
 				(font
@@ -9841,7 +9841,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ-3523-SMT-TR?qs=WyjlAZoYn51zOHzJ3r4ZRA%3D%3D"
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Same-Sky/SJ-3524-SMT-TR"
 			(at 243.84 749.86 0)
 			(effects
 				(font
@@ -9861,7 +9861,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "SJ-3523-SMT-TR"
+		(property "Manufacturer_Part_Number" "SJ-3524-SMT-TR"
 			(at 243.84 949.86 0)
 			(effects
 				(font
@@ -9871,7 +9871,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C4991872"
+		(property "LCSC" "C20182907"
 			(at 217.17 154.94 0)
 			(effects
 				(font

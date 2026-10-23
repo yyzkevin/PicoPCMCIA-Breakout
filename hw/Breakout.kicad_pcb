@@ -158,11 +158,11 @@
 	(net 39 "I2C0_SDA")
 	(net 40 "/HP_L")
 	(net 41 "unconnected-(J1-Pad12)")
-	(footprint "BreakoutLibrary:SJ3523SMTTR"
+	(footprint "BreakoutLibrary:SJ3524SMTTR"
 		(layer "F.Cu")
 		(uuid "0274759c-7e28-40d1-97da-61a8a740f8d1")
 		(at 111.225 72.5 -90)
-		(descr "SJ-3523-SMT-TR-1")
+		(descr "SJ-3524-SMT-TR")
 		(tags "Connector")
 		(property "Reference" "J5"
 			(at 7.3 0.4 90)
@@ -175,7 +175,7 @@
 				)
 			)
 		)
-		(property "Value" "SJ-3523-SMT-TR"
+		(property "Value" "SJ-3524-SMT-TR"
 			(at 7.3 0.4 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -187,7 +187,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.sameskydevices.com/product/resource/SJ-3523-SMT-TR.pdf"
+		(property "Datasheet" "https://www.sameskydevices.com/product/resource/sj-352x-smt.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -199,7 +199,7 @@
 				)
 			)
 		)
-		(property "Description" "SJ-3523-SMT-TR - 3.5 mm, Stereo, Right Angle, Surface Mount (SMT), 3 Conductors, 0 Internal Switches, Audio Jack Connector"
+		(property "Description" "SJ-3524-SMT-TR - 3.5 mm, Stereo, Right Angle, Surface Mount (SMT), 3 Conductors, 1 Internal Switch (tip), Audio Jack Connector"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -224,7 +224,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "490-SJ-3523-SMT-TR"
+		(property "Mouser Part Number" "490-SJ-3524-SMT-TR"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -237,7 +237,7 @@
 				)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ-3523-SMT-TR?qs=WyjlAZoYn51zOHzJ3r4ZRA%3D%3D"
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Same-Sky/SJ-3524-SMT-TR"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -263,7 +263,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "SJ-3523-SMT-TR"
+		(property "Manufacturer_Part_Number" "SJ-3524-SMT-TR"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -279,7 +279,7 @@
 		(path "/0f8150ff-71dc-47ce-be50-88527a584ea6")
 		(sheetname "/")
 		(sheetfile "Breakout.kicad_sch")
-		(property "LCSC" "C4991872"
+		(property "LCSC" "C20182907"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -344,7 +344,7 @@
 		)
 		(fp_line
 			(start 14.5 3.05)
-			(end 14.5 1.5)
+			(end 14.5 0.9)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -384,7 +384,7 @@
 		)
 		(fp_line
 			(start 14.5 -3)
-			(end 14.5 1.5)
+			(end 14.5 -2.4)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -545,6 +545,12 @@
 			(pinfunction "RING")
 			(pintype "passive")
 			(uuid "8f56af5d-b6e1-4813-b775-f2ade4dddcf6")
+		)
+		(pad "4" smd rect
+			(at 15.8 -0.75 270)
+			(size 2.6 2.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(uuid "ebf02295-8929-4bfb-b71f-bff087cf18bb")
 		)
 		(embedded_fonts no)
 		(model "SJ-3523-SMT-TR.stp"
@@ -3943,11 +3949,11 @@
 			)
 		)
 	)
-	(footprint "BreakoutLibrary:SJ3523SMTTR"
+	(footprint "BreakoutLibrary:SJ3524SMTTR"
 		(layer "F.Cu")
 		(uuid "9599654b-637b-4f1b-b982-68f997e86c63")
 		(at 88.525 72.5 -90)
-		(descr "SJ-3523-SMT-TR-1")
+		(descr "SJ-3524-SMT-TR")
 		(tags "Connector")
 		(property "Reference" "J2"
 			(at 7.3 0.4 90)
@@ -3960,7 +3966,7 @@
 				)
 			)
 		)
-		(property "Value" "SJ-3523-SMT-TR"
+		(property "Value" "SJ-3524-SMT-TR"
 			(at 7.3 0.4 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -3972,7 +3978,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.sameskydevices.com/product/resource/SJ-3523-SMT-TR.pdf"
+		(property "Datasheet" "https://www.sameskydevices.com/product/resource/sj-352x-smt.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3984,7 +3990,7 @@
 				)
 			)
 		)
-		(property "Description" "SJ-3523-SMT-TR - 3.5 mm, Stereo, Right Angle, Surface Mount (SMT), 3 Conductors, 0 Internal Switches, Audio Jack Connector"
+		(property "Description" "SJ-3524-SMT-TR - 3.5 mm, Stereo, Right Angle, Surface Mount (SMT), 3 Conductors, 1 Internal Switch (tip), Audio Jack Connector"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4009,7 +4015,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "490-SJ-3523-SMT-TR"
+		(property "Mouser Part Number" "490-SJ-3524-SMT-TR"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4022,7 +4028,7 @@
 				)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ-3523-SMT-TR?qs=WyjlAZoYn51zOHzJ3r4ZRA%3D%3D"
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Same-Sky/SJ-3524-SMT-TR"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4048,7 +4054,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "SJ-3523-SMT-TR"
+		(property "Manufacturer_Part_Number" "SJ-3524-SMT-TR"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4064,7 +4070,7 @@
 		(path "/0f6cc610-4e39-46c1-9d9b-dec0090276dd")
 		(sheetname "/")
 		(sheetfile "Breakout.kicad_sch")
-		(property "LCSC" "C4991872"
+		(property "LCSC" "C20182907"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4129,7 +4135,7 @@
 		)
 		(fp_line
 			(start 14.5 3.05)
-			(end 14.5 1.5)
+			(end 14.5 0.9)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -4169,7 +4175,7 @@
 		)
 		(fp_line
 			(start 14.5 -3)
-			(end 14.5 1.5)
+			(end 14.5 -2.4)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -4330,6 +4336,12 @@
 			(pinfunction "RING")
 			(pintype "passive")
 			(uuid "c8c4f9c0-ff23-47a9-a7fe-2dd0413b66fa")
+		)
+		(pad "4" smd rect
+			(at 15.8 -0.75 270)
+			(size 2.6 2.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(uuid "fe2fc397-f384-4cc1-b25d-c1f7590431da")
 		)
 		(embedded_fonts no)
 		(model "SJ-3523-SMT-TR.stp"
