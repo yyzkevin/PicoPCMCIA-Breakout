@@ -3253,11 +3253,11 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-353_SC-70-5"
+	(footprint "BreakoutLibrary:SOT-353_SC-70-5"
 		(layer "F.Cu")
 		(uuid "87d38ab5-76a2-430c-b8d6-664eff9071de")
 		(at 100.96 82.85 90)
-		(descr "SOT-353, SC-70-5")
+		(descr "SOT-353, SC-70-5 (KiCad 9.0.6 land pattern, pads 0.65 x 0.4; kept in the project because KiCad 9.0.7 lengthened the pads to 1.325)")
 		(tags "SOT-353 SC-70-5")
 		(property "Reference" "U2"
 			(at 0 -2.25 90)
