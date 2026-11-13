@@ -9556,7 +9556,7 @@
 				)
 			)
 		)
-		(property "Value" "74LVC1G00"
+		(property "Value" "74AHCT1G00"
 			(at 80.01 168.8398 0)
 			(effects
 				(font
@@ -9591,7 +9591,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C8185"
+		(property "LCSC" "C7483"
 			(at 68.58 172.72 0)
 			(effects
 				(font
@@ -9866,7 +9866,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "1uF"
 			(at 59.182 152.654 0)
 			(effects
 				(font
@@ -9902,7 +9902,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C52923"
 			(at 55.88 154.94 0)
 			(effects
 				(font
