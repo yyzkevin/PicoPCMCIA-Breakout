@@ -296,14 +296,14 @@
 			)
 		)
 	)
-	(pad "" np_thru_hole oval
+	(pad "19" thru_hole oval
 		(at -12.025 0 90)
 		(size 3.008122 1.357884)
 		(drill oval 2.500122 0.849884)
 		(layers "*.Cu" "*.Mask")
 		(uuid "9932051e-10b5-4420-b780-9b7bdf57385a")
 	)
-	(pad "" np_thru_hole oval
+	(pad "20" thru_hole oval
 		(at -11.499997 -3.574999)
 		(size 3.008122 1.357884)
 		(drill oval 2.500122 0.849884)
@@ -324,14 +324,14 @@
 		(layers "*.Cu" "*.Mask")
 		(uuid "8152cf96-3f3c-4b5a-a29f-1063393c5fc3")
 	)
-	(pad "" np_thru_hole oval
+	(pad "21" thru_hole oval
 		(at 2.999999 -3.574999)
 		(size 3.008122 1.357884)
 		(drill oval 2.500122 0.849884)
 		(layers "*.Cu" "*.Mask")
 		(uuid "af27f950-7c39-42b8-a5b2-a672ad4f4c2d")
 	)
-	(pad "" np_thru_hole oval
+	(pad "22" thru_hole oval
 		(at 3.525002 0 90)
 		(size 3.008122 1.357884)
 		(drill oval 2.500122 0.849884)
