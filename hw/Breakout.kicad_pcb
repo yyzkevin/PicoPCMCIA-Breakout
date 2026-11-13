@@ -2658,7 +2658,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "1uF"
 			(at 0 1.16 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2694,7 +2694,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C52923"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -3673,7 +3673,7 @@
 				)
 			)
 		)
-		(property "Value" "74LVC1G00"
+		(property "Value" "74AHCT1G00"
 			(at 0 2 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3711,7 +3711,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C8185"
+		(property "LCSC" "C7483"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -7144,7 +7144,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "PicoPCMCIA Breakout v1.2\n\n"
+	(gr_text "PicoPCMCIA Breakout v1.3\n\n"
 		(at 86.5886 72.8472 90)
 		(layer "B.SilkS")
 		(uuid "14f4600f-2043-4735-bd4b-ea7c5ced195e")
